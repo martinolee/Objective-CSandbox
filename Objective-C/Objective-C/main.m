@@ -6,7 +6,7 @@
 //  Copyright © 2020 Soohan Lee. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import "main.h"
 
 int main(int argc, const char * argv[]) {
   @autoreleasepool {
